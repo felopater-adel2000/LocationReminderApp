@@ -84,11 +84,11 @@ Explain what each test does and why
 ## Screenshot
 ![Login Screen](screenshots/screen1.jpg)
 
-![List Screen](Screenshots/screen2.jpg)
+![List Screen](screenshots/Screen2.jpg)
 
-![Details Screen](Screenshots/screen3.jpg)
+![Details Screen](screenshots/Screen3.jpg)
 
-![Map Screen](Screenshots/screen4.jpg)
+![Map Screen](screenshots/Screen4.jpg)
 
-![List Screen](Screenshots/screen6.jpg)
+![List Screen](screenshots/Screen6.jpg)
 
